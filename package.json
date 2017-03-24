@@ -19,5 +19,8 @@
   },
   "keywords": [
     "babel-plugin"
-  ]
+  ],
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
 }
